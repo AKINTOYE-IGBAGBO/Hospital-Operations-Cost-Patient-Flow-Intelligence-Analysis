@@ -27,6 +27,9 @@ Excel  - Collection of Data
 
 ### Important Dax Formula and definitions
 
+[Metrics](https://github.com/AKINTOYE-IGBAGBO/Hospital-Operations-Cost-Patient-Flow-Intelligence-Analysis/blob/main/HOSPITAL%20INTELLIGENCE%20KPI%20METRICS.docx)
+
+
 ### Objectives
 
 1. Determine total encounter volumes trends across months and year,Patients demographic and gender.
