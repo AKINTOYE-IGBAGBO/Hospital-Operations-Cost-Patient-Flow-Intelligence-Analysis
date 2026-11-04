@@ -55,6 +55,7 @@ Excel  - Collection of Data
 ### Data Model 
 
 
+
 ### Major Observeration and Analysis 
 
 1. Ambulatory and Outpatients covers major encounter volumes .
@@ -70,14 +71,19 @@ Excel  - Collection of Data
 6. Medicare Insurance  has the lowest average average claims paid by employee to encounter volume  which makes it a low revenue insurance.
 
 7. Medicaid Insurance has high average claims paid ratio to encounter volumes. which makes it a high performing Payers
-
-   
+ 
 8.  Incomplete 2022 records contributed to the lowest encounter and total claims cost.
 
 
-# Recommendations 
+### Recommendations 
 
 1. Maintain high payer performance and review low performing payers.
 
-2. Increase 
-3. 
+2. Increase  resource planning of encounter class with high volume of encounter, total claims and procedure utilization rate.
+   
+3. Maintain and strenghten high procedures while target low procedures with referral and engaging strategies.
+
+
+ ### Author
+
+ [Akintoye Igbagbo](www.linkedin.com/in/igbagbo-akintoye-5344a7ba)
